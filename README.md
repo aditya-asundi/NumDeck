@@ -32,7 +32,7 @@ ideally, have the executable somewhere else, and just have a shortcut of it on y
 when you edit the .csv file, make sure to restart the app.
 
 to make this run when windows starts, follow these instructions:
-- open Run (Win+R) and open shell:startup
+- open Run (Win+R) and open `shell:startup`
 - copy-paste the shortcut into this folder
 - done! now if you want to disable it, it'll just appear in Task Manager. you can disable it from there.
 
